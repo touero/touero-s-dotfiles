@@ -40,6 +40,7 @@ fi
 
 git config --global user.name "touero"
 git config --global user.email "touer0018@gmail.com"
+git config --global color.ui auto
 git config --global diff.tool nvimdiff
 git config --global difftool.prompt false
 git config --global sendemail.suppresscc self
